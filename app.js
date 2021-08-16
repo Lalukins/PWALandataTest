@@ -4,9 +4,9 @@ const APP = {
       if ('serviceWorker' in navigator) {
         //register our service worker
         navigator.serviceWorker
-          .register('sw.js', {
+          .register('/PWALandataTest/sw.js', {
             updateViaCache: 'none',
-            scope: '/',
+            scope: '/PWALandataTest/',
           })
           .then(() => {
             //finished registering
