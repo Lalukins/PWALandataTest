@@ -6,7 +6,7 @@ const APP = {
         navigator.serviceWorker
           .register('PWALandataTest/sw.js', {
             updateViaCache: 'none',
-            scope: '/',
+            //scope: '/',
           })
           .then(() => {
             //finished registering
