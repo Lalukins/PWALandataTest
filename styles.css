@@ -134,7 +134,7 @@ body{
 .titles-line {
   background-color: #E1393E;
   min-height: 5px;
-  margin-left: 3%;
+  margin-left: 7%;
   max-width: 350px;
   margin-bottom: 30px;
 }
@@ -234,6 +234,7 @@ body{
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
+  padding: 0 15px;
 }
 /*Contacts CSS*/
 .contacts-container{
@@ -294,6 +295,7 @@ body{
   text-decoration: none;
   border-radius: 23px;
   font-family: Georgia, serif;
+  margin-bottom: 20px;
 }
 .contacts-list i {
   font-size: 24px;
