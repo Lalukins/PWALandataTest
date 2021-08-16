@@ -6,7 +6,7 @@ const APP = {
         navigator.serviceWorker
           .register('sw.js', {
             updateViaCache: 'none',
-            scope: 'https://lalukins.github.io/',
+            scope: '/',
           })
           .then(() => {
             //finished registering
