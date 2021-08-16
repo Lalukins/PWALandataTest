@@ -2,7 +2,7 @@
     "name": "Landata Точка Опоры Надёжный IT-Дистрибутор",
     "short_name": "Landata",
     "description": "Landata Точка Опоры Надёжный IT-Дистрибутор",
-    "start_url": "/",
+    "start_url": ".",
     "display": "standalone",
     "orientation": "any",
     "lang": "ru",
